@@ -27,6 +27,10 @@ The website works perfectly on all modern devices including:
 - 💻 Laptops
 - 🖥️ Desktops
 - 📲 Tablets
+- 
+## 🔗 Live Demo
+
+[View it on GitHub Pages](https://martina26-nmr.github.io/Personal-Portfolio-with-Bootstrap/)
 
 ## 👩‍💻 Author
 
